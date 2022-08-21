@@ -1,0 +1,9 @@
+.box {
+  width: 80%;
+  padding: 10px 15px;
+  background-color: crimson;
+  color: #fff;
+  font-family: sans-serif;
+  border-radius: 5px;
+  margin: 0px auto;
+}
